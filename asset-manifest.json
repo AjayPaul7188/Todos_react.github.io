@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Todos_react/static/css/main.cd770484.css",
-    "main.js": "/Todos_react/static/js/main.fbdcc34b.js",
-    "static/js/453.ac79db8d.chunk.js": "/Todos_react/static/js/453.ac79db8d.chunk.js",
-    "index.html": "/Todos_react/index.html",
-    "main.cd770484.css.map": "/Todos_react/static/css/main.cd770484.css.map",
-    "main.fbdcc34b.js.map": "/Todos_react/static/js/main.fbdcc34b.js.map",
-    "453.ac79db8d.chunk.js.map": "/Todos_react/static/js/453.ac79db8d.chunk.js.map"
+    "main.css": "/Todos_react.github.io/static/css/main.cd770484.css",
+    "main.js": "/Todos_react.github.io/static/js/main.4c8c577f.js",
+    "static/js/453.ac79db8d.chunk.js": "/Todos_react.github.io/static/js/453.ac79db8d.chunk.js",
+    "index.html": "/Todos_react.github.io/index.html",
+    "main.cd770484.css.map": "/Todos_react.github.io/static/css/main.cd770484.css.map",
+    "main.4c8c577f.js.map": "/Todos_react.github.io/static/js/main.4c8c577f.js.map",
+    "453.ac79db8d.chunk.js.map": "/Todos_react.github.io/static/js/453.ac79db8d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cd770484.css",
-    "static/js/main.fbdcc34b.js"
+    "static/js/main.4c8c577f.js"
   ]
 }
